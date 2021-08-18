@@ -11,4 +11,4 @@
 
 3° - Digite no terminal: ```npm install```
 
-4° - Em seguida digite: ```live-server```
+4° - Em seguida digite: ```npm run start```
