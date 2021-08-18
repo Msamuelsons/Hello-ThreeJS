@@ -1,0 +1,14 @@
+{
+  "name": "loading",
+  "version": "1.0.0",
+  "description": "Hello World ThreeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
